@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\bin\Debug\DirMaker.exe.config
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\bin\Debug\DirMaker.exe
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\bin\Debug\DirMaker.pdb
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\obj\Debug\DirMaker.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\obj\Debug\DirMaker.Form1.resources
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\obj\Debug\DirMaker.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\obj\Debug\DirMaker.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\obj\Debug\DirMaker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\obj\Debug\DirMaker.exe
+C:\Users\Admin\Desktop\C#_Proj\IVT-2\DirMaker\DirMaker\obj\Debug\DirMaker.pdb
